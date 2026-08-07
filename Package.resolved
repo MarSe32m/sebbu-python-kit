@@ -1,0 +1,24 @@
+{
+  "originHash" : "3aff21e2b67b64a6ff60b3bd208b52aae07ecc3c7e7cc6553326864da4a0ac18",
+  "pins" : [
+    {
+      "identity" : "pythonkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pvieito/pythonkit",
+      "state" : {
+        "revision" : "6fee7617cfa910fbac7035276e295ba967adbbb4",
+        "version" : "0.5.1"
+      }
+    },
+    {
+      "identity" : "swift-numerics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-numerics",
+      "state" : {
+        "revision" : "0c0290ff6b24942dadb83a929ffaaa1481df04a2",
+        "version" : "1.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
